@@ -1,5 +1,5 @@
 { "name": "sjsont"
-, "description": "Simple JSON transformation"
+, "description": "Simple JSON transformation, WIP"
 , "keywords": [ "json", "transform", "javascript" ]
 , "version": "0.0.1alpha"
 , "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
