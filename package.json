@@ -1,0 +1,17 @@
+{ "name": "sjsont"
+, "description": "Simple JSON transformation"
+, "keywords": [ "json", "transform", "javascript" ]
+, "version": "0.0.1alpha"
+, "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
+, "repository": { "type": "git", "url": "git://github.com/ajlopez/SJsonT.git" }
+, "main": "./lib/sjsont.js"
+, "engines": { "node": ">= 0.6.0" }
+, "scripts": {
+    "test": "simpleunit test"
+  }
+, "dependencies": {
+  }
+, "devDependencies": {
+    "simpleunit": "0.0.6"
+  }
+}
